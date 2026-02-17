@@ -1,6 +1,46 @@
-# cleanstreet_5800
-Academic team project (CIS 5800 EMWA, Baruch College, Spring 2025) designing a responsive, user-friendly platform for NYC drivers. Users search by address/street to view current cleaning days, see an interactive map (Google Maps API), bookmark spots, and receive timely SMS/push notifications—pulling live data from NYC Open Data and 311 API.
-Key highlights: Reduces unnecessary violations through better accessibility, promotes compliance with DSNY goals, incorporates ethical considerations (ADA compliance, equitable access for low-income users), and aligns with smart-city trends for scalable urban solutions.
-My contributions: Authored the Executive Summary and Project Introduction (including DSNY overview, SWOT analysis, mission alignment, and strategic fit).
-Planned tech: React + Tailwind (frontend), Python/Node.js (backend), MySQL database, free NYC APIs.
-Full planning doc: Included in repo. Great showcase of Agile PM, stakeholder analysis, risk/comms planning, public-service impact, and API integration thinking for real-world civic problems.
+# cleanstreet_5800 
+Real-time NYC Street Cleaning Schedule & Parking Reminder Web App
+
+**Helping NYC residents avoid parking tickets with easy access to street cleaning information.**
+
+This is a team academic project from **CIS 5800 EMWA** (Baruch College, Spring 2025).  
+CleanStreetNYC is a planned responsive web application that lets users:
+
+- Search by street name, address, or intersection to view current cleaning days and rules
+- See an interactive map showing cleaning zones (powered by Google Maps API)
+- Bookmark favorite locations for quick access
+- Receive timely SMS or push notifications before cleaning days
+
+All data is pulled from **NYC Open Data** and the **311 API** for accuracy and real-time updates.
+
+### Why It Matters
+- Reduces unnecessary parking violations caused by unclear or hard-to-find schedules
+- Improves compliance with NYC Department of Sanitation (DSNY) goals
+- Promotes equitable access (ADA-compliant design, helpful for low-income residents)
+- Aligns with smart-city trends for better urban information delivery
+
+### Planned Technology Stack
+- **Frontend**: React + Tailwind CSS  
+- **Backend**: Python / Node.js (or Firebase)  
+- **Database**: MySQL  
+- **APIs & Data**: NYC Open Data, 311 API, Google Maps API  
+- **Tools**: GitHub (version control), Trello (task tracking)
+
+### My Contributions
+- Wrote the **Executive Summary**  
+- Authored the **Project Introduction** (including DSNY overview, SWOT analysis, mission alignment, and strategic fit)  
+- Created corresponding presentation slides
+
+### Full Project Deliverable
+[Team 8 CleanStreetNYC Project Execution.docx](Team%208_CleanStreetNYC_Project%20Execution.docx)  
+(Contains project charter, feasibility analysis, stakeholder/risk/communication plans, requirements, tech assessment, ethical/legal considerations, and lessons learned.)
+
+### Key Skills Demonstrated
+- Agile project management  
+- Stakeholder analysis & requirements gathering  
+- Risk & communication planning  
+- API integration thinking  
+- Civic & public-service impact focus  
+
+Team: Ying Jie Mei , Carson Liao, **Franco Rosito**, Joseph Sagastume, Peter Akinrinade  
+Course project – Baruch College, Spring 2025
