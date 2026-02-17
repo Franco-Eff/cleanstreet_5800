@@ -31,10 +31,6 @@ All data is pulled from **NYC Open Data** and the **311 API** for accuracy and r
 - Authored the **Project Introduction** (including DSNY overview, SWOT analysis, mission alignment, and strategic fit)  
 - Created corresponding presentation slides
 
-### Full Project Deliverable
-[Team 8 CleanStreetNYC Project Execution.docx](Team%208_CleanStreetNYC_Project%20Execution.docx)  
-(Contains project charter, feasibility analysis, stakeholder/risk/communication plans, requirements, tech assessment, ethical/legal considerations, and lessons learned.)
-
 ### Key Skills Demonstrated
 - Agile project management  
 - Stakeholder analysis & requirements gathering  
